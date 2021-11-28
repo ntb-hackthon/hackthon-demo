@@ -11,6 +11,18 @@ Now, it has a lot more features.
 We try to build an SaaS platform to eliminate the gap between no-tech user and the web3.
 Every discord server owner can have their own NFT SaaS solution here.
 
+## ChainLink VRF useage: DiscordTicket
+
+- [web ui](https://www.nfttop.best/guild/892687815656235068/buyTicket)
+- [Contract Here](https://mumbai.polygonscan.com/address/0xe32c9dc41ae44e2f8793395bf95793507ae4d83b#internaltx)
+- [Discord channel](https://discord.gg/wwPesFUYXv)
+
+1. Buy ticket with any payment bigger than 0.05 matic.
+2. 10 percentage of the payment will be send to one of the ticket owner.
+3. The lucky owner is picked by random (by use the Chainlink VRF).
+4. The early you buy the ticket, the luckier you will be!!
+5. Only the user have the ticket can access our VIP channel!
+
 ### 1. Use multiple Pinata in Discord && Mint NFT in Discord by multiple Pinata account
 
 - manage multiple pinata key in discord, that turn all discord user can use infinite IPFS store.
