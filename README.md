@@ -8,6 +8,9 @@ It just can setup one pinata key in discord, and mint NFT.
 
 Now, it has a lot more features.
 
+We try to build an SaaS platform to eliminate the gap between no-tech user and the web3.
+Every discord server owner can have their own NFT SaaS solution here.
+
 ### 1. Use multiple Pinata in Discord && Mint NFT in Discord by multiple Pinata account
 
 - manage multiple pinata key in discord, that turn all discord user can use infinite IPFS store.
