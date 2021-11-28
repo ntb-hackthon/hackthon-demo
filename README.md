@@ -16,7 +16,7 @@ Now, it has a lot more features.
 - we now have a web-ui to see all of your minted NFT in current discord server!
 - we also list all other user's NFT in the web-ui(the same contract but different owner)
 - [video demo](https://www.youtube.com/watch?v=dx7xbWDA3Bw)
-- [screenshot](https://github.com/ntb-hackthon/hackthon-demo/screenshot/pinata-nft-mint)
+- [screenshot](https://github.com/ntb-hackthon/hackthon-demo/tree/main/screenshot/pinata-nft-mint)
 
 ### 2. buy DiscordTicket NFT
 
@@ -27,7 +27,7 @@ Now, it has a lot more features.
 - user go back to discord use the `~upgrade` cmd to verify his/her binded wallet address has the NFT(we use the alchemy JSON RPC SERVER to read the data)
 - user get "VIP1" role
 - [video demo](https://www.youtube.com/watch?v=h-ciHrgki40)
-- [screenshot](https://github.com/ntb-hackthon/hackthon-demo/screenshot/discord-ticket)
+- [screenshot](https://github.com/ntb-hackthon/hackthon-demo/tree/main/screenshot/discord-ticket)
 
 ## Tech usage
 
