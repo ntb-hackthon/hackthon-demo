@@ -31,10 +31,27 @@ Now, it has a lot more features.
 
 ## Tech usage
 
-- pinata(IPFS)
+- pinata(IPFS), Polygon
 - api server to return user data
 - discord bot server to interact with user
 - ethersjs in nodejs
 - moralis( [crypto Login](https://docs.moralis.io/moralis-server/users/crypto-login), [token](https://docs.moralis.io/moralis-server/web3-sdk/token), [cloud function](https://docs.moralis.io/moralis-server/cloud-code/cloud-functions) )
 - vue3, tailwindcss
 - chainlink (to make the DiscordTicket Contract with 10% payment send to random owner)
+- NFT Port, try it in discord channel here: <https://discord.gg/3cxBW68TpF>
+- use Alchemy JSON RPC in our discord bot server to quickly get new NFT mint status
+- other chain can work too: Avalanche, HECO, Solana, BSC, Harmony, NEAR
+
+## Code Link
+
+<https://github.com/ntb-hackthon/hackthon-demo>
+
+As the bot maybe develop as a SaaS later then so for now we do not public all the discord bot
+code, we just share the code for the [pinata](https://github.com/ntb-hackthon/hackthon-demo/code-sample/pinata.js), [polygonMint](https://github.com/ntb-hackthon/hackthon-demo/code-sample/polygonMint.js), [bind wallet](https://github.com/ntb-hackthon/hackthon-demo/code-sample/bind-wallet.js).
+
+## Online Demo
+
+Your can try it by two methods.
+
+1. access the discord channel direct: <https://discord.gg/mqBksZ9qtz>
+2. invite the bot into your own guild, invite link: <https://discord.com/api/oauth2/authorize?client_id=892688696967593995&permissions=8&scope=bot%20applications.commands>
