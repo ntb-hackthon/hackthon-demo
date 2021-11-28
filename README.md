@@ -55,3 +55,4 @@ Your can try it by two methods.
 
 1. access the discord channel direct: <https://discord.gg/mqBksZ9qtz>
 2. invite the bot into your own guild, invite link: <https://discord.com/api/oauth2/authorize?client_id=892688696967593995&permissions=8&scope=bot%20applications.commands>
+3. [Youtube Video Demo PlayList](https://www.youtube.com/playlist?list=PLJrAIkwtXFJDS5gWqmDqamrZV83jsFunL)
