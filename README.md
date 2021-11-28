@@ -8,20 +8,17 @@ It just can setup one pinata key in discord, and mint NFT.
 
 Now, it has a lot more features.
 
-### 1. Use multiple Pinata in Discord
+### 1. Use multiple Pinata in Discord && Mint NFT in Discord by multiple Pinata account
 
 - manage multiple pinata key in discord, that turn all discord user can use infinite IPFS store.
 - has a secret link to our web-ui to see your IPFS file and manage them.
-- [video demo](https://github.com/ntb-hackthon/hackthon-demo/video/upload-file-to-ipfs-in-discord.mov)
-
-### 2. Mint NFT in Discord by multiple Pinata account
-
 - we can use multiple pinatak key to uploda file to IPFS, so we can use them to mint more NFTs!!
 - we now have a web-ui to see all of your minted NFT in current discord server!
 - we also list all other user's NFT in the web-ui(the same contract but different owner)
-- [video demo](https://github.com/ntb-hackthon/hackthon-demo/video/mint-nft-in-discord-with-multiple-pinata-key.mov)
+- [video demo](https://www.youtube.com/watch?v=dx7xbWDA3Bw)
+- [screenshot](https://github.com/ntb-hackthon/hackthon-demo/screenshot/pinata-nft-mint)
 
-### 3. buy DiscordTicket NFT
+### 2. buy DiscordTicket NFT
 
 - while user do not have the DT NFT, they can not access special channel.
 - user can go to "bind wallet" channel to use the `/bind-wallet` splash cmd to get private link to bind wallet
