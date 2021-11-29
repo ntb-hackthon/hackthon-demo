@@ -23,6 +23,15 @@ Every discord server owner can have their own NFT SaaS solution here.
 4. The early you buy the ticket, the luckier you will be!!
 5. Only the user have the ticket can access our VIP channel!
 
+
+This use case is just the beginning, as now we can use the DiscordTicket as a ticket/payment for the discord server owner. 
+Later we have a plan to make the DT more useful, such as:
+1. use DT to buy NFT in the channel
+2. while in different channel user can mint different NFT, they use the DT to compose different NFT into new NFT
+3. It's more like a mod game in discord guild, and everyone can just create a new Discord Guild to host this game
+4. Have the dApp Market Place for discord guild member to trade their NFT!!
+
+
 ### 1. Use multiple Pinata in Discord && Mint NFT in Discord by multiple Pinata account
 
 - manage multiple pinata key in discord, that turn all discord user can use infinite IPFS store.
